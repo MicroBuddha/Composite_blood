@@ -14,7 +14,22 @@ We provide:
 - Instructions to reproduce experiments.
 
 > ⚠ **Note**: The raw PBC and ALL-IDB datasets do not belong to us. Please download them from their official sources and cite them in any work.
+>1. @inproceedings{acevedo2018pbc,
+  title={A dataset of microscopic peripheral blood cell images for development of automatic recognition systems},
+  author={Acevedo, A. and Merino, A. and Alférez, J. and Molina, A. and Puigdomènech, A.},
+  booktitle={Proc. Int. Conf. Pattern Recognit. (ICPR)},
+  pages={3697--3702},
+  year={2018}
+}
+
+> @inproceedings{labati2011allidb,
+  title={ALL-IDB: The acute lymphoblastic leukemia image database for image processing},
+  author={Labati, R. R. and Piuri, V. and Scotti, F.},
+  booktitle={Proc. IEEE Int. Conf. Image Process. (ICIP)},
+  pages={2045--2048},
+  year={2011}
+}
+
 
 ---
 
-## 📂 Repository Structure
